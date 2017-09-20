@@ -1,0 +1,29 @@
+body {
+    background-image: url(htmlwallpaper.jpg);
+    background-color: peru;
+}
+
+p {
+    color: whitesmoke;
+}
+
+h1 {
+    color: whitesmoke;
+    margin: auto;
+    width: 50%;
+    border: 3px solid whitesmoke;
+    padding: 10px;
+    text-align: center;
+}
+
+h2 {
+    color: whitesmoke;
+}
+
+li {
+    color: whitesmoke;
+}
+
+a {
+    color: seagreen;
+}
